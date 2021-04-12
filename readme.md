@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="rishit" /> </p>
 
-- 🌱 I’m currently learning more about Vue.js.
+- 🌱 I’m currently learning more about React.js.
 
-- 🍽 Things on my plate for later - Django, Flask.
+- 🍽 Things on my plate for later - Python, Data Science.
 
-- 👨‍💻 All of my projects are available at [amand33p.github.io - my portfolio site](https://amand33p.github.io).
+- 👨‍💻 All of my projects are available at my github profile: https://github.com/rishitbhojak.
 
 - 💬 Ask me about React, Node.js & in general about JavaScript development.
 
-- 📫 How to reach me: **amandeep96x@gmail.com**
+- 📫 Reach me at : **rajabhojak@gmail.com**
 
 <h3 align="left">Languages & Tools:</h3>
 
