@@ -1,7 +1,7 @@
 <h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Rishit Bhojak</h2>
 <h3>I'm a student software developer from Gandhinagar, India, currently learning Web Development with React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="rishit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitbhojak&label=Profile%20views&color=0e75b6&style=flat" alt="rishit" /> </p>
 
 - 🌱 I’m currently learning more about React.js.
 
