@@ -41,6 +41,15 @@
 <p><a href="https://github.com/rishitbhojak" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/BhojakRishit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rishitbhojak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishitbhojak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishitbhojak&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3>My Projects:</h3>
 <p>
 Check the pinned repositories below. 👇
