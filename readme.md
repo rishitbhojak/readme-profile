@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitbhojak&label=Profile%20views&color=0e75b6&style=flat" alt="rishit" /> </p>
 
-- 🌱 I’m currently learning more about React.js.
+- 🌱 I’m currently learning more about <b>React.js</b>.
 
-- 🍽 Things on my plate for later - Flutter, Python, Data Science.
+- 🍽 Things on my plate for later - <b>Flutter, Python, Data Science</b>.
 
 - 👨‍💻 All of my projects are available at my github profile: https://github.com/rishitbhojak.
 
-- 💬 Ask me about React, Node.js & in general about JavaScript development.
+- 💬 Ask me about <b>React, Node.js</b> & in general about <b>JavaScript development</b>.
 
 - 📫 Reach me at : **rajabhojak@gmail.com**
 
