@@ -4,7 +4,7 @@
   , I'm Rishit Bhojak
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Software+Developer;From+Gandhinagar,+India;Web+Development+with+React)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins-Bold&size=30&color=00a3ff&center=true&vCenter=true&width=900&height=110&lines=Software+Developer;From+Gandhinagar,+India;Web+Development+with+React)
 
 <h3>I'm a student software developer from Gandhinagar, India, currently learning </h3>
 
