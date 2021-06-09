@@ -1,5 +1,12 @@
-<h2>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Rishit Bhojak</h2>
-<h3>I'm a student software developer from Gandhinagar, India, currently learning Web Development with React</h3>
+<h1 align="center">
+  Hey there
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  , I'm Rishit Bhojak
+</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Software+Developer;From+Gandhinagar,+India;Web+Development+with+React)
+
+<h3>I'm a student software developer from Gandhinagar, India, currently learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitbhojak&label=Profile%20views&color=0e75b6&style=flat" alt="rishit" /> </p>
 
