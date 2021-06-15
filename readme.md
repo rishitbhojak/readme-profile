@@ -20,6 +20,11 @@
 
 - 📫 Reach me at : **rajabhojak@gmail.com**
 
+### Highlights
+
+- 🌐 Finalist at PAPAReact FullStack Hero Hackathon
+
+
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
