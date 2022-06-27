@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hey there
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hey there!
   , I'm Rishit Bhojak
 </h1>
 
