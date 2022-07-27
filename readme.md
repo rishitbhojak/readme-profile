@@ -9,15 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitbhojak&label=Profile%20views&color=0e75b6&style=flat" alt="rishit" /> </p>
 
-- 🌱 I’m currently learning <b>React</b> and <b>Machine</b> <b>Learning</b>.
-
-- 🍽 Things on my plate for later - <b>Flutter, Python, Data Science</b>.
+- 🌱 I’m currently learning <b>Business Intelligence</b> and <b>Analytics</b> .
 
 - 📫 Reach me at : **rishit2810.cse@gmail.com**
 
 ### Highlights
 
-- 🌐 Finalist at PAPAReact FullStack Hero Hackathon
+- 🌐 Finalist at PAPAReact FullStack Hero and TechFreak Hackathon
 
 
 <h3 align="left">Languages & Tools:</h3>
